@@ -64,6 +64,19 @@ function App() {
           
       ))}
      </section>
+     <footer>
+        <div className="footer-item"> Feito por: <span>Heleno,</span> ministrado por <span> B7Web</span><br/></div>
+         <div className="footer-item"> Direitos de imagem para Netflix</div>
+          <div className="footer-item">Dados pego pelo site Themoviedb.org</div>
+          
+
+     </footer>
+     {movieList.length <=0 && 
+     <div className="loading">
+     <img src="https://media.filmelier.com/noticias/br/2020/03/Netflix_LoadTime.gif" alt="carregando" />
+     </div>
+     
+     }
     </div>
   );
 }

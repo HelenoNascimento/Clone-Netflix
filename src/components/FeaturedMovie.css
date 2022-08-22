@@ -76,14 +76,43 @@
 .featured--watchbutton{
     background-color: #fff;
     color: #000;
+    text-align: center;
+    justify-content: center;
+    
 }
 
 .featured--mylistbutton{
     background-color: #333;
     color: #fff;
+    
 }
 .featured--genres{
     margin-top: 15px;
     font-size: 18px;
     color: #999;
+}
+
+@media (max-width: 760px) {
+    .featured{
+        height: 110vh;
+    }
+    .featured--name{
+        font-size: 40px;
+    }
+    .featured--info{
+        font-size: 16px;
+    }
+    .featured--description{
+        font-size: 14px;
+        max-width: 100%;
+        margin-right: 30px;
+    }
+    .featured--watchbutton,
+    .featured--mylistbutton{
+        font-size: 16px;
+
+    }
+    .featured--genres{
+        font-size: 14px;
+    }
 }
