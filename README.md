@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/20055120/185995457-1e3a9c4d-94fe-4846-9c85-568f11812a32.png)
+
 
 
 🚀 UI Clone</br>
@@ -25,4 +25,8 @@ Netflix, com o uso da API fornecida pelo The Movie Database.</br>
 Esse Projeto foi desenvolvido durante a live ministrada pelo professor Boenick Lacerda.</br>
 
 <br><br>
-confira a live  <a href="https://www.youtube.com/watch?v=tBweoUiMsDg&ab_channel=BoniekyLacerda">Aqui </a>
+confira a live  <a href="https://www.youtube.com/watch?v=tBweoUiMsDg&ab_channel=BoniekyLacerda">Aqui </a><br><br>
+
+
+![image](https://user-images.githubusercontent.com/20055120/185996506-ec8b0fd7-fcce-461c-bd43-c543d86896b5.png)
+
